@@ -76,7 +76,7 @@
 <h2>☕️ Support Me</h2>
 <p>
 <p>
-<a href="swift_lux" target="_blank">
+<a href="https://ko-fi.com/swift_lux" target="_blank">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
 </a>
 </p>
