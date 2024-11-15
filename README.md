@@ -1,6 +1,6 @@
 
-<a href="https://github.com/svcode-npms" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=svcode-npms&count_private=true&theme=radical" />
+<a href="https://github.com/swift-lux" target="_blank">
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=swift-lux&count_private=true&theme=radical" />
 </a>
 
 <h1>Hi 👋, I'm swift_lux(svcode)</h1>
